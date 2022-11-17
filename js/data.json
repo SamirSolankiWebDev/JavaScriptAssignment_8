@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Iron Man",
+        "actor": "Robert Downey, Jr.",
+        "realname": "Tony Stark",
+        "species": "Human",
+        "publisher": "Stark Industries"
+    },
+    {
+        "name": "Captain America",
+        "actor": "Chris Evans",
+        "realname": "Steve Rogers",
+        "species": "Asgardian",
+        "publisher": "United Service Organizations"
+    },
+    {   
+        "name": "Hulk",
+        "actor": "Mark Ruffalo, Edward Norton",
+        "realname": "Bruce Banner",
+        "species": "Human",
+        "publisher": "Revengers"
+    }, 
+    {
+        "name": "Thor",
+        "actor": "Chris Hemsworth",
+        "realname": "Thor Odinson",
+        "species": "Animal",
+        "publisher": "Asgardian Royal Family"
+    },
+    {
+        "name": "Black Widow",
+        "actor": "Scarlett Johansson",
+        "realname": "Natasha Romanoff",
+        "species": "Human",
+        "publisher": "STRIKE Team: Delta"
+    }    
+]
